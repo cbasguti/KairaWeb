@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Agency Preview](https://postimg.cc/3yX4P82W)](https://startbootstrap.github.io/startbootstrap-agency/)
+[![Agency Preview](https://i.postimg.cc/yN5m3Wdh/preview.png)](v)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-agency/)**
+**[View Live Preview](https://curious-plate.surge.sh/)**
 
 ## Status
 
