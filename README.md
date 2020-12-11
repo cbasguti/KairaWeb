@@ -1,6 +1,6 @@
 # [Kaira - Página Oficial](https://startbootstrap.com/theme/agency)
 
-[Agency](https://curious-plate.surge.sh/) is a one page, agency portfolio theme built with [Bootstrap](https://getbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+[Kaira](https://curious-plate.surge.sh/) es una página, portafolio de productos temático construido con [Bootstrap](https://getbootstrap.com/). Este tema contiene varias secciones, una cuadrícula de productos resposiva, ventanas modales para cada ítem del portafolio y un formulario de contacto funcional basado en PHP.
 
 ## Preview
 
